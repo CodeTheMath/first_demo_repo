@@ -3,5 +3,5 @@ this is just a first repositiory I created to make some experiment wit git and j
 Here should be some content of readme file :-)
 
 This is a link to a Binder budge
- :target: https://mybinder.org/v2/gh/CodeTheMath/first_demo_repo/main?filepath=Newton_Interpolation.ipynb
+https://mybinder.org/v2/gh/CodeTheMath/first_demo_repo/main?filepath=Newton_Interpolation.ipynb
 
